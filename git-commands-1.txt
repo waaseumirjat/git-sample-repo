@@ -1,4 +1,4 @@
-git status
+git status --> to display changes in the GIT repository
 git init
 git config --global user.name "Let's Kode It"
 git config --global user.email letskodeit@gmamil.com
